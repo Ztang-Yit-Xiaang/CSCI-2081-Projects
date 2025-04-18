@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProcessingApiExample">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProcessingApiExample.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="code">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProcessingApiExample/ApiExample/code/jackson-core-2.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProcessingApiExample/ApiExample/code/okhttp-3.14.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProcessingApiExample/ApiExample/code/jackson-annotations-2.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProcessingApiExample/ApiExample/code/jackson-databind-2.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ProcessingApiExample/ApiExample/code/okio-1.17.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
